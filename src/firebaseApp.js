@@ -6,12 +6,12 @@ import { getStorage } from "firebase/storage";
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDPwhSMnOAIqnIRYzsio_gaWW2eT452Hok",
+  apiKey: "",
   authDomain: "manishchat-f7304.firebaseapp.com",
   projectId: "manishchat-f7304",
   storageBucket: "manishchat-f7304.appspot.com",
   messagingSenderId: "120988715345",
-  appId: "1:120988715345:web:bad65d8b488ea17ac9eb70",
+  appId: "",
   measurementId: "G-4RPG2WS7Y0"
 };
 
